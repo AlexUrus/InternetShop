@@ -1,0 +1,15 @@
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\obj\Debug\net6.0\InternetShop.csproj.AssemblyReference.cache
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\obj\Debug\net6.0\InternetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\obj\Debug\net6.0\InternetShop.AssemblyInfoInputs.cache
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\obj\Debug\net6.0\InternetShop.AssemblyInfo.cs
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\obj\Debug\net6.0\InternetShop.csproj.CoreCompileInputs.cache
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\bin\Debug\net6.0\InternetShop.exe
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\bin\Debug\net6.0\InternetShop.deps.json
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\bin\Debug\net6.0\InternetShop.runtimeconfig.json
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\bin\Debug\net6.0\InternetShop.dll
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\bin\Debug\net6.0\InternetShop.pdb
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\obj\Debug\net6.0\InternetShop.dll
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\obj\Debug\net6.0\refint\InternetShop.dll
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\obj\Debug\net6.0\InternetShop.pdb
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\obj\Debug\net6.0\InternetShop.genruntimeconfig.cache
+C:\Users\Pacck\Desktop\Ucheba\Proga\C#_lessons\InternetShop\obj\Debug\net6.0\ref\InternetShop.dll
